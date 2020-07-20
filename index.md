@@ -6,4 +6,4 @@ Here are the list to Linkeding Automation tools that works very well according t
 # (3) <a href="https://chrome.google.com/webstore/detail/linkens/hjngmlepjloblimbhocofmodjihjklhf"><b>Linkens Chrome Extension</b></a>
 # (4) <a href="https://phantombuster.com"><b>Phantom Bustor</b></a>
 # (5) <a href="https://www.dux-soup.com"><b>DuxSoup</b></a>
-# (6) <a href="https://www.linkedomata.com"<b>Linkedomata</b></a>
+# (6) <a href="https://www.linkedomata.com"><b>Linkedomata</b></a>
